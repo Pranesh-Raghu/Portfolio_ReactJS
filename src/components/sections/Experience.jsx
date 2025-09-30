@@ -6,18 +6,23 @@ const Experience = () => {
     {
       position: 'Quality Assurance Engineer',
       company: 'Texmo Blank',
-      period: '2023 - 2024',
+      period: 'FEB 2023 - JAN 2024',
       description: [
 
-        "Utilized advanced measuring equipment such as FARO gauges and CMMs",
-
-        "Implemented lean manufacturing tools to improve efficiency"
       ]
     },
     {
-      position: 'Web Developer Intern',
+      position: 'Software Engineer Intern - Backend',
       company: 'Scalekit',
-      period: '2025 - Present',
+      period: 'MAY 2025 - SEPT 2025',
+      description: [
+        
+      ]
+    },
+    {
+      position: 'Software Engineer - Backend',
+      company: 'Scalekit',
+      period: 'OCT 2025 - Present',
       description: [
         
       ]
