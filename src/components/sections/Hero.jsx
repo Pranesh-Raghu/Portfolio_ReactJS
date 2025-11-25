@@ -98,7 +98,7 @@ const Hero = () => {
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 p-1">
               <div className="absolute inset-1 rounded-full overflow-hidden bg-white dark:bg-dark-800">
                 <img
-                  src="https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FWhatsApp%20Image%202025-05-22%20at%204.43.28%20PM.jpeg?alt=media&token=dc00cd2a-375c-4a04-a9cd-80dc55f44a64"
+                  src="https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FWhatsApp%20Image%202025-11-25%20at%2010.36.52%20AM.jpeg?alt=media&token=6097699e-f126-43ec-b9e6-a1024b43ab84"
                   alt="Pranesh"
                   className="w-full h-full object-cover"
                 />
