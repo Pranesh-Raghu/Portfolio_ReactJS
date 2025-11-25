@@ -53,7 +53,7 @@ const Hero = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-body-lg text-dark-600 dark:text-dark-200 mb-8 max-w-2xl"
             >
-              I specialize in building secure, high-performance backend systems that power modern applications with reliability, 
+              I specialize in building secure backend systems that power modern applications with reliability, 
               flexibility, and seamless integration.
             </motion.p>
             
